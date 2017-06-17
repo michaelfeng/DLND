@@ -5,5 +5,7 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
-tv-script-generatio/*.p
-tv-script-generatio/*.data*
+tv-script-generation/*.p
+tv-script-generation/*.data*
+language-translation/*.p
+reinforcement/gym/
